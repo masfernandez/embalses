@@ -1,6 +1,6 @@
 # Embalses de Paquito
 
-Read the instructions at [here](https://github.com/masfernandez/embalses/doc/kata_objectives.pdf)
+Read the instructions at [here](https://github.com/masfernandez/embalses/blob/master/doc/kata_objectives.pdf)
 
 ## How to install dependencies?
 At project's root execute:
